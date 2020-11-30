@@ -1,5 +1,5 @@
 import unittest
-from models import  report
+from models import  Report
 
 
 class SourceTest(unittest.TestCase):
