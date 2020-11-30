@@ -1,7 +1,6 @@
 import unittest
 from models import  report
 
-Sources = source.Sources
 
 class SourceTest(unittest.TestCase):
     '''
