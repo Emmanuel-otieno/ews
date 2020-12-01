@@ -1,8 +1,9 @@
-.posterPath
+.body
 {
     padding-bottom: 40%;
     padding-top: 30%;
     background-size: cover;
+    background-color: bisque;
 }
 .news-details
 {
