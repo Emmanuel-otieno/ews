@@ -5,6 +5,8 @@ ul
  .news
  {
       color: green;
+      font-weight: bold;
+      font-size: 45px;
  }
 
  
